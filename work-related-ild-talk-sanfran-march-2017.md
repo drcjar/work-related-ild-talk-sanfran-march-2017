@@ -64,9 +64,11 @@ include pic of ats classification
 
 ## Which of the three chemical exposures causing ILD was not work-related?
 
-- A) Ardytstil
-- B) Indium tin oxide
-- C) South Korean lung
+##
+
+ A) Ardytstil
+ B) Indium tin oxide
+ C) South Korean lung
 
 ##
 
