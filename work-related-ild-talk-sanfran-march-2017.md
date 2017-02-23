@@ -9,9 +9,11 @@
 
 ##
 talk available online at
+
 > http://carlreynolds.net/work-related-ild-talk-sanfran-march-2017/
 
 additional material available at
+
 > https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
 # What work-related ILD is 
