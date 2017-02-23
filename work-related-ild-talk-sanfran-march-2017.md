@@ -9,7 +9,7 @@
 
 ##
 - talk available online at
-:
+
 > http://carlreynolds.net/work-related-ild-talk-sanfran-march-2017/
 
 - additional material available at
