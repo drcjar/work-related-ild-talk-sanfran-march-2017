@@ -1,6 +1,5 @@
 % Work-related Interstitial Lung Disease: Beyond pneumoconiosis 
 % Dr Carl Reynolds 
-% 9th March 2017
 
 # Disclosures
 
