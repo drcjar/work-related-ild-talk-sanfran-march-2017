@@ -45,7 +45,9 @@ man made minderal fibres and ild
 
 include histopath and anatomical pic
 
-## {data-background="images/Classific_diffuse_lung_dz.gif"}
+## 
+
+![Image](images/Classific_diffuse_lung_dz.gif)
 
 ## Clinical features 
 
