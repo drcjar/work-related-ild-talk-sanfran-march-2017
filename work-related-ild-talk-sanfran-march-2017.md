@@ -1,12 +1,12 @@
-% Colophons, Python, and Prescribing
+% Work-related ILD 
 % Carl Reynolds / @drcjar / www.carlreynolds.net 
-% 14 December 2016
+% 8th March 2017
 
 # Supporting materials
 
 ##
 
-> https://github.com/drcjar/prescribing-seminar-dec2016/
+> https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
 
 # Today you will learn (if you didn't know it already)
