@@ -47,7 +47,7 @@ include histopath and anatomical pic
 
 ## 
 
-![Image](images/Classific_diffuse_lung_dz.gif){ width=80% }
+![Image](images/Classific_diffuse_lung_dz.gif){ width=70% }
 
 ## Clinical features 
 
