@@ -60,10 +60,13 @@ include pic of ats classification
 
 # MCQs
 
-##
+## Which of the three chemical exposures causing ILD was not work-related?
 
-1. Which of the three chemical exposures causing ILD was not work-related?
-2. 
+- A) Ardytstil
+- B) Indium tin oxide
+- C) South Korean lung
+
+##
 
 # Summary 
 
