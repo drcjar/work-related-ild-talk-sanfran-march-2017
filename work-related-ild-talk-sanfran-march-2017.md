@@ -1,6 +1,10 @@
-% Work-related ILD 
-% Carl Reynolds / @drcjar / www.carlreynolds.net 
-% 8th March 2017
+% Work-related Interstitial Lung Disease: Beyond pneumoconiosis 
+% Dr Carl Reynolds 
+% 9th March 2017
+
+# Disclosures
+
+## I have nothing to disclose 
 
 # Supporting materials
 
