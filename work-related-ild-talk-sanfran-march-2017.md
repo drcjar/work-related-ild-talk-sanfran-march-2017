@@ -89,5 +89,8 @@ include pic of ats classification
 3. Litow, Francesca K., et al. "Occupational interstitial lung diseases." Journal of occupational and environmental medicine 57.11 (2015): 1250-1254.
 4. Glazer, C. S., and L. Maier. "Occupational interstitial lung disease." Eur Respir Monograph 46 (2009): 265-286. 
 5. Wallis, Adam, and Katherine Spinks. "The diagnosis and management of interstitial lung diseases." Bmj 350 (2015): h2072.
+
+##
+
 6. Travis, William D., et al. "An official American Thoracic Society/European Respiratory Society statement: update of the international multidisciplinary classification of the idiopathic interstitial pneumonias." American journal of respiratory and critical care medicine 188.6 (2013): 733-748.
 
