@@ -8,11 +8,11 @@
 # Supporting materials
 
 ##
-talk available online at
-
+- talk available online at
+:
 > http://carlreynolds.net/work-related-ild-talk-sanfran-march-2017/
 
-additional material available at
+- additional material available at
 
 > https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
@@ -20,15 +20,15 @@ additional material available at
 
 ## Definitions
 
-1. The difference between colophon and colophony  
-2. The difference between python and python 
-3. What the GP Prescribing Data is and why it's fun 
-
 ## Epidemiology
 
 ## Aetiology  
 
+use a review paper
+
 ## Pathology
+
+include histopath and anatomical pic
 
 ## Clinical features 
 
@@ -40,19 +40,17 @@ include pic of ats classification
 
 1. Ardystil 
 2. Indium tin oxide
-3. South korean 
+3. South Korean lung 
+
+# Ardystil
 
 ## {data-background="images/colophon1.jpg"}
 
-## Exhibit 2 
- 
-## {data-background="images/colophon2.jpg"}
-
-## Exhibit 3 
+# Indium tin oxide
 
 ## {data-background="images/colophon3.jpg"}
 
-## Exhibit 4 
+# South Korean Lung
 
 ## {data-background="images/colophon4.jpg"}
 
