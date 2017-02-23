@@ -27,9 +27,10 @@
 - work-related diseases have multiple causes; factors in workplace may play a role 
 - (WHO 2017)
 
-## ILD
+## diffuse parenchymal lung disease
 
-- 
+- ILD vs DPLD
+- latter 
 
 ## Epidemiology
 
@@ -43,6 +44,8 @@ man made minderal fibres and ild
 ## Pathology
 
 include histopath and anatomical pic
+
+## {data-background="images/Classific_diffuse_lung_dz.gif"}
 
 ## Clinical features 
 
