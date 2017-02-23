@@ -19,7 +19,17 @@
 # What is work-related ILD? 
 
 ## Definitions
- 
+
+## work-related
+
+- work-related != occupational
+- occupational diseases are primarily caused by exposure to risk factors arising from work
+- work-related diseases have multiple causes; factors in workplace may play a role 
+- (WHO 2017)
+
+## ILD
+
+- 
 
 ## Epidemiology
 
