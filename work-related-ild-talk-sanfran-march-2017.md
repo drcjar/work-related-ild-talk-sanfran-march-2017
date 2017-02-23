@@ -47,7 +47,11 @@ include histopath and anatomical pic
 
 ## 
 
-![©2017 UpToDate®](images/Classific_diffuse_lung_dz.gif){ width=65% }
+![©2017 UpToDate® (7)](images/Classific_diffuse_lung_dz.gif){ width=65% }
+
+##
+
+![CT appearance ILD(5)](images/ILDCTBMJ.jpg)
 
 ## Clinical features 
 
@@ -115,4 +119,4 @@ include pic of ats classification
 ##
 
 6. Travis, William D., et al. "An official American Thoracic Society/European Respiratory Society statement: update of the international multidisciplinary classification of the idiopathic interstitial pneumonias." American journal of respiratory and critical care medicine 188.6 (2013): 733-748.
-
+7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
