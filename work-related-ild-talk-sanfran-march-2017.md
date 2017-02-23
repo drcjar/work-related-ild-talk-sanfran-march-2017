@@ -30,7 +30,9 @@
 ## diffuse parenchymal lung disease
 
 - ILD vs DPLD
-- latter 
+- latter more descriptive 
+
+## work-related ILD
 
 ## Epidemiology
 
@@ -51,7 +53,9 @@ include histopath and anatomical pic
 
 ##
 
-![CT appearance ILD(5)](images/ILDCTBMJ.jpg)
+![CT appearance ILD(5)](images/ILDCTBMJ.jpg){ width=65%}
+
+## {data-background="images/ILDCTBMJ.jpg}
 
 ## Clinical features 
 
