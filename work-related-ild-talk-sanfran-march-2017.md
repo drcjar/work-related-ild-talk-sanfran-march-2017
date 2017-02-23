@@ -29,8 +29,15 @@
 
 ## diffuse parenchymal lung disease
 
-- ILD vs DPLD
-- latter more descriptive 
+- ILD or DPLD
+- hetrogeneous group of disorders characterised by inflammation and fibrosis of the interstitum
+- interstitum refers to tissue between the pulmonary alveoli and the bloodstream
+- in practice disease can also involve airway
+
+##
+
+-2 micrometers across (for ref sheet of paper is 50micrometers), so thats 25x thinner than that. surface area that of a tennis court.
+necessary for O2 flow rate of 3L per minute.
 
 ## work-related ILD
 
@@ -47,6 +54,9 @@ man made minderal fibres and ild
 
 include histopath and anatomical pic
 
+##
+
+    
 ## 
 
 ![©2017 UpToDate® (7)](images/Classific_diffuse_lung_dz.gif){ width=65% }
@@ -55,7 +65,7 @@ include histopath and anatomical pic
 
 ![CT appearance ILD(5)](images/ILDCTBMJ.jpg){ width=65%}
 
-## {data-background="images/ILDCTBMJ.jpg}
+## {data-background="images/ILDCTBMJ.jpg"}
 
 ## Clinical features 
 
