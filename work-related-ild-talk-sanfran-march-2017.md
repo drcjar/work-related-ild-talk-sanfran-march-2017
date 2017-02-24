@@ -34,7 +34,17 @@
 - interstitum refers to tissue between the pulmonary alveoli and the bloodstream
 - in practice disease can also involve airway
 
-## lung physiology and exposure
+## 
+
+![©2017 UpToDate® (7)](images/Classific_diffuse_lung_dz.gif){ width=65% }
+
+##
+
+![CT appearance ILD(5)](images/ILDCTBMJ.jpg){ width=65%}
+
+
+
+## lung physiology and interstitial exposures 
 
 - Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law.
 - You will recall:
@@ -56,11 +66,16 @@ D = solubility / root of the molecular weight of the gas
 
 ##
 
-2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm), so thats 25x thinner than that. 300 million alveloli. Each alveoli is 0.0042mm^3 (a grain of sand is 
-0.06mm^3, so an alveoli is about 14 times smaller). Surface area of a tennis court.
+- 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm)
+- 25x thinner than that. 300 million alveloli 
+- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller) 
+- Surface area of a tennis court
 
-##
+## 
+
 > TV 500ml, dead space 150ml, RR 15/min, 350ml*15 = approx 5L/min -> 7200L/day 
+
+## ample opportunity for sufficiently small particles to meet the interstitum
 
 ## work-related ILD
 
@@ -75,18 +90,15 @@ man made minderal fibres and ild
 
 ## Pathology
 
-include histopath and anatomical pic
 
 ##
 
     
 ## 
 
-![©2017 UpToDate® (7)](images/Classific_diffuse_lung_dz.gif){ width=65% }
 
 ##
 
-![CT appearance ILD(5)](images/ILDCTBMJ.jpg){ width=65%}
 
 
 ## Clinical features 
