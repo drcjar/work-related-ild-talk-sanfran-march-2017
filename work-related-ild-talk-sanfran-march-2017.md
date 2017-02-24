@@ -40,8 +40,7 @@
 
 ##
 
-![CT appearance ILD(5)](images/ILDCTBMJ.jpg){ width=65%}
-
+![CT appearance ILD (5)](images/ILDCTBMJ.jpg){ width=65%}
 
 
 ## lung physiology and interstitial exposures 
@@ -57,7 +56,6 @@
 > Vgas (diffusing) is proportional to Area/Thickness * D(diffusion constant) * (P1 - P2)
 
 D = solubility / root of the molecular weight of the gas
-
 
 ##
 
@@ -79,6 +77,8 @@ D = solubility / root of the molecular weight of the gas
 ## work-related ILD
 
 ## Epidemiology
+
+-  
 
 ## Aetiology  
 
@@ -160,7 +160,7 @@ include pic of ats classification
 1. Cullinan, Paul, et al. "Occupational lung diseases: from old and novel exposures to effective preventive strategies." The Lancet Respiratory Medicine (2017).
 2. Reynolds CJ, Blanc PD. Organising Pneumonia and Other Uncommon Interstitial Disorders in Parkes’ Occupational Lung Disorders. CRC Press; 4th edition.
 3. Litow, Francesca K., et al. "Occupational interstitial lung diseases." Journal of occupational and environmental medicine 57.11 (2015): 1250-1254.
-4. Glazer, C. S., and L. Maier. "Occupational interstitial lung disease." Eur Respir Monograph 46 (2009): 265-286. 
+4. Glazer, Craig S. "Occupation, avocation, and interstitial lung disease." Clinical Pulmonary Medicine 18.1 (2011): 20-28. 
 5. Wallis, Adam, and Katherine Spinks. "The diagnosis and management of interstitial lung diseases." Bmj 350 (2015): h2072.
 
 ##
@@ -169,3 +169,4 @@ include pic of ats classification
 7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
 8. West, John B. "Role of the fragility of the pulmonary blood-gas barrier in the evolution of the pulmonary circulation." American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 304.3 (2013): R171-R176.
 9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
+10. Raghu, G., F. Nyberg, and G. Morgan. "The epidemiology of interstitial lung disease and its association with lung cancer." British Journal of cancer 91 (2004): S3-S10.
