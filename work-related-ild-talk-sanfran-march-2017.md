@@ -25,7 +25,7 @@
 - work-related != occupational
 - occupational diseases are primarily caused by exposure to risk factors arising from work
 - work-related diseases have multiple causes; factors in workplace may play a role 
-- (WHO 2017)
+(WHO 2017)
 
 ## diffuse parenchymal lung disease
 
@@ -34,10 +34,17 @@
 - interstitum refers to tissue between the pulmonary alveoli and the bloodstream
 - in practice disease can also involve airway
 
-##
+## lung physiology and exposure
 
--2 micrometers across (for ref sheet of paper is 50micrometers), so thats 25x thinner than that. surface area that of a tennis court.
-necessary for O2 flow rate of 3L per minute.
+- Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law:
+
+> Vgas (diffusing) is proportional to Area/Thickness * D(diffusion constant) * (P1 - P2)
+> D = solubility / root of the molecular weight of the gas
+
+> 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm), so thats 25x thinner than that. 300 million alveloli. Each alveoli
+0.0042mm^3, :Surface area of a tennis court.
+
+> TV 500ml, dead space 150ml, RR 15/min, 350ml*15 = approx 5L/min -> 7200L/day 
 
 ## work-related ILD
 
