@@ -47,7 +47,6 @@
 ## lung physiology and interstitial exposures 
 
 - Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law.
-- You will recall:
 
 ##
 
@@ -168,3 +167,5 @@ include pic of ats classification
 
 6. Travis, William D., et al. "An official American Thoracic Society/European Respiratory Society statement: update of the international multidisciplinary classification of the idiopathic interstitial pneumonias." American journal of respiratory and critical care medicine 188.6 (2013): 733-748.
 7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
+8. West, John B. "Role of the fragility of the pulmonary blood-gas barrier in the evolution of the pulmonary circulation." American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 304.3 (2013): R171-R176.
+9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
