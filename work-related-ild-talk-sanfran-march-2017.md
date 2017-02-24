@@ -41,6 +41,10 @@
 
 ##
 
+![Weibel model](images/Weibelmode.jpg){ width=65% }
+
+##
+
 > Vgas (diffusing) is proportional to Area/Thickness * D(diffusion constant) * (P1 - P2)
 
 D = solubility / root of the molecular weight of the gas
@@ -48,6 +52,12 @@ D = solubility / root of the molecular weight of the gas
 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm), so thats 25x thinner than that. 300 million alveloli. Each alveoli is 0.0042mm^3 (a grain of sand is 
 0.06mm^3, so an alveoli is about 14 times smaller). Surface area of a tennis court.
 
+##
+
+![Blood gas barrier](images/Bloodgasbarrier.jpg){ width=65% }
+
+
+##
 > TV 500ml, dead space 150ml, RR 15/min, 350ml*15 = approx 5L/min -> 7200L/day 
 
 ## work-related ILD
@@ -76,7 +86,6 @@ include histopath and anatomical pic
 
 ![CT appearance ILD(5)](images/ILDCTBMJ.jpg){ width=65%}
 
-## {data-background="images/ILDCTBMJ.jpg"}
 
 ## Clinical features 
 
