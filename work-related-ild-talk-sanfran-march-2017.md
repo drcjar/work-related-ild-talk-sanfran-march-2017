@@ -36,7 +36,10 @@
 
 ## lung physiology and exposure
 
-- Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law:
+- Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law.
+- You will recall...
+
+##
 
 > Vgas (diffusing) is proportional to Area/Thickness * D(diffusion constant) * (P1 - P2)
 > D = solubility / root of the molecular weight of the gas
