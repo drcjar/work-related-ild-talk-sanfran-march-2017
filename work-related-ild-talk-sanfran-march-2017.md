@@ -41,7 +41,7 @@
 
 ##
 
-![Weibel model](images/Weibelmode.jpg){ width=65% }
+![Weibel model](images/Weibelmodel.jpg){ width=65% }
 
 ##
 
