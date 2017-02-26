@@ -30,14 +30,14 @@
 
 ## Definitions
 
-## work-related
+## work-related doesn't mean occupational
 
 - work-related != occupational
 - occupational diseases are primarily caused by exposure to risk factors arising from work
 - work-related diseases have multiple causes; factors in workplace may play a role 
 (WHO 2017)
 
-## diffuse parenchymal lung disease
+## diffuse parenchymal lung disease is confusing
 
 - ILD or DPLD
 - hetrogeneous group of disorders characterised by inflammation and fibrosis of the interstitum
@@ -92,18 +92,17 @@ D = solubility / root of the molecular weight of the gas
 problems, limitations of registry and insurance claim data)
 - best historic estimate of incidence 30/100,000 per year, prevelance 70/100,000(10)
 - IIP most common, IPF 1/3rd of cases, more common in men
+
 ## estimated 15-20\% of ILD due to occupational and environmental exposures
 
 
-## Aetiology  
+## Aetiologies are many  
 
 - diverse, relationship with pathologic pattern usually not 1:1
 - common: include organic antigen, isocyanates, silica, cadium, diacetyl, asbestos
 - less common: cobalt, rare earths, plutonium 
 
-## Pathology
-
-- diverse, relationship with aetiolgic agent usually not 1:1
+## Relationship between aetiolgic agent and pathological patten often not 1:1
 
 ##
 
@@ -111,7 +110,7 @@ problems, limitations of registry and insurance claim data)
 
 ## 
 
-## Histology slides still to come
+## Don't worry we'll look at histology slides shortly
 
 ## Clinical features 
 
