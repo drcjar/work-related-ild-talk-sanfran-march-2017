@@ -104,6 +104,8 @@ problems, limitations of registry and insurance claim data)
 
 ## aetiologies are many  
 
+##
+
 - common: include organic antigen, isocyanates, silica, cadium, diacetyl, asbestos
 - less common: cobalt, rare earths, plutonium 
 
@@ -126,6 +128,8 @@ problems, limitations of registry and insurance claim data)
 ## Attribution frequently non-trivial
 
 ## New workplace and environmental exposures all the time
+
+## 
 
 ![A hierarchy of attribution in occupational lung diseases (11)](images/Attribution.jpg){ width=90% }
 
