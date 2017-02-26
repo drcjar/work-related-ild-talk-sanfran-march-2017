@@ -16,7 +16,7 @@
 
 > https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
-# Beyond pneumoconiosis
+# Beyond pneumoconiosis?
 
 ##
 
@@ -46,7 +46,7 @@
 
 ## 
 
-![©2017 UpToDate® (7)](images/Classific_diffuse_lung_dz.gif){ width=65% }
+![An ILD Taxonomy (7)](images/Classific_diffuse_lung_dz.gif){ width=65% }
 
 ##
 
