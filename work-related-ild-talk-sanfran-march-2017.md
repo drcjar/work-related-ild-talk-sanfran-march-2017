@@ -58,6 +58,8 @@
 
 ## lung physiology and interstitial exposures 
 
+## 
+
 - Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law.
 
 ##
@@ -93,15 +95,13 @@ D = solubility / root of the molecular weight of the gas
 
 - precise population prevalence and incididence of ILD hard to establish (classification 
 problems, limitations of registry and insurance claim data)
-- best historic estimate of incidence 30/100,000 per year, prevelance 70/100,000(10)
+- best historic estimate of incidence 30/100,000 per year, prevelance 70/100,000 (10)
 - IIP most common, IPF 1/3rd of cases, more common in men
 
-## estimated 15-20\% of ILD due to occupational and environmental exposures
-
+## 15-20\% of ILD due to occupational and environmental exposures
 
 ## Aetiologies are many  
 
-- diverse, relationship with pathologic pattern usually not 1:1
 - common: include organic antigen, isocyanates, silica, cadium, diacetyl, asbestos
 - less common: cobalt, rare earths, plutonium 
 
