@@ -16,6 +16,16 @@
 
 > https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
+# Beyond pneumoconiosis
+
+##
+
+![Kellingley colliery workers](images/KellingleyCollieryCloses2015.jpg)
+
+##
+
+![HSE Pneumoconiosis figures](images/Pneumoconniosis.jpg) 
+
 # What is work-related ILD? 
 
 ## Definitions
