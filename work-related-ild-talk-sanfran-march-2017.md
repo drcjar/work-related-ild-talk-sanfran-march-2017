@@ -145,7 +145,9 @@ problems, limitations of registry and insurance claim data)
 
 # Ardystil
 
-## {data-background="images/Ardystil1.jpeg"}
+## 
+
+[Ardystil syndrome (1)](images/Ardystil1.jpeg"){ width=65% }
 
 # Indium tin oxide
 
