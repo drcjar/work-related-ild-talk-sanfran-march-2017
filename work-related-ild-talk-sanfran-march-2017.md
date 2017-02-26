@@ -145,11 +145,11 @@ problems, limitations of registry and insurance claim data)
 
 # Ardystil
 
-## {data-background="images/colophon1.jpg"}
+## {data-background="images/Ardystil1.jpeg"}
 
 # Indium tin oxide
 
-## {data-background="images/colophon3.jpg"}
+## {data-background="images/Ardystil2.jpg"}
 
 # South Korean Lung
 
