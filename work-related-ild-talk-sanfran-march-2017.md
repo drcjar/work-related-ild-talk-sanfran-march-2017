@@ -78,19 +78,26 @@ D = solubility / root of the molecular weight of the gas
 
 ## Epidemiology
 
--  
+- precise population prevalence and incididence of ILD hard to establish (classification 
+problems, limitations of registry and insurance claim data)
+- best historic estimate of incidence 30/100,000 per year, prevelance 70/100,000(10)
+- IIP most common, IPF 1/3rd of cases, more common in men
+- estimated 15-20\% of ILD due to occupational and environmental exposures
+
 
 ## Aetiology  
 
-use a review paper
-inc metal fluid workers and hp
-man made minderal fibres and ild
-
+- diverse, relationship with pathologic pattern usually not 1:1
+- common: include organic antigen, isocyanates, silica, cadium, diacetyl, asbestos
+- less common: cobalt, rare earths, plutonium 
 
 ## Pathology
 
+- diverse, relationship with aetiolgic agent usually not 1:1
 
 ##
+
+![Pathologic Patterns and Causes (4)](images/Pathology.jpeg){ width=65% }
 
     
 ## 
@@ -169,4 +176,4 @@ include pic of ats classification
 7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
 8. West, John B. "Role of the fragility of the pulmonary blood-gas barrier in the evolution of the pulmonary circulation." American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 304.3 (2013): R171-R176.
 9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
-10. Raghu, G., F. Nyberg, and G. Morgan. "The epidemiology of interstitial lung disease and its association with lung cancer." British Journal of cancer 91 (2004): S3-S10.
+10. Coultas, David B., et al. "The epidemiology of interstitial lung diseases." American journal of respiratory and critical care medicine 150.4 (1994): 967-972. 
