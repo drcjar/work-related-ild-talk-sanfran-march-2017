@@ -87,7 +87,7 @@ D = solubility / root of the molecular weight of the gas
 
 > TV 500ml, dead space 150ml, RR 15/min, 350ml*15 = approx 5L/min -> 7200L/day 
 
-## ample opportunity for sufficiently small particles to meet the interstitum
+## ample opportunity for sufficiently small particles to meet the interstitum 
 
 ## work-related ILD
 
@@ -102,12 +102,12 @@ problems, limitations of registry and insurance claim data)
 
 ## 15-20\% of ILD due to occupational and environmental exposures
 
-## Aetiologies are many  
+## aetiologies are many  
 
 - common: include organic antigen, isocyanates, silica, cadium, diacetyl, asbestos
 - less common: cobalt, rare earths, plutonium 
 
-## Relationship between aetiolgic agent and pathological patten often not 1:1
+## relationship between aetiolgic agent and pathological patten often not 1:1
 
 ##
 
@@ -115,20 +115,21 @@ problems, limitations of registry and insurance claim data)
 
 ## 
 
-## Don't worry we'll look at histology slides shortly
+## don't worry we'll look at histology slides shortly
 
 ## Clinical features 
 
 - Respiratory symptoms with an appropriate occupational or environmental exposure history 
 - Host-factor (e.g adaptive immune response, systemic) vs exposure factor dominant presentations (local inflammatory response)
 - Investigations
-- Attribution frequently non-trivial
 
-##
+## Attribution frequently non-trivial
+
+## New workplace and environmental exposures all the time
 
 ![A hierarchy of attribution in occupational lung diseases (11)](images/Attribution.jpg){ width=90% }
 
-# But I'm not covering it all
+# I can't cover it all
 
 ## I'll cover three chemicals that cause diseases where the hard work of attribution has already been done
 
