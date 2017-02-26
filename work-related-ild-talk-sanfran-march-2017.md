@@ -107,7 +107,7 @@ problems, limitations of registry and insurance claim data)
 
 ##
 
-![Pathologic Patterns and Causes (4)](images/Pathology.jpeg){ width=65% }
+![Pathologic Patterns and Causes (4)](images/Pathology.jpeg){ width=90% }
 
     
 ## 
