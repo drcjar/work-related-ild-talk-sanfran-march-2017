@@ -32,12 +32,15 @@
 
 ## work-related doesn't mean occupational
 
-- work-related != occupational
+##
+
 - occupational diseases are primarily caused by exposure to risk factors arising from work
 - work-related diseases have multiple causes; factors in workplace may play a role 
 (WHO 2017)
 
 ## diffuse parenchymal lung disease is confusing
+
+##
 
 - ILD or DPLD
 - hetrogeneous group of disorders characterised by inflammation and fibrosis of the interstitum
