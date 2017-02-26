@@ -92,7 +92,7 @@ D = solubility / root of the molecular weight of the gas
 problems, limitations of registry and insurance claim data)
 - best historic estimate of incidence 30/100,000 per year, prevelance 70/100,000(10)
 - IIP most common, IPF 1/3rd of cases, more common in men
-- estimated 15-20\% of ILD due to occupational and environmental exposures
+## estimated 15-20\% of ILD due to occupational and environmental exposures
 
 
 ## Aetiology  
@@ -109,19 +109,18 @@ problems, limitations of registry and insurance claim data)
 
 ![Pathologic Patterns and Causes (4)](images/Pathology.jpeg){ width=90% }
 
-    
 ## 
-
-
-##
-
-
 
 ## Clinical features 
 
-include pic of ats classification
+- Respiratory symptoms with an appropriate occupational or environmental exposure history 
+- Attribution frequently non-trivial
 
-# I'm not covering it all
+##
+
+![A hierarchy of attribution in occupational lung diseases(11)[images/Attribution.jpg]{ width=90% }
+
+# But I'm not covering it all
 
 ## I'll cover three chemicals that cause disease
 
@@ -186,4 +185,5 @@ include pic of ats classification
 7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
 8. West, John B. "Role of the fragility of the pulmonary blood-gas barrier in the evolution of the pulmonary circulation." American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 304.3 (2013): R171-R176.
 9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
-10. Coultas, David B., et al. "The epidemiology of interstitial lung diseases." American journal of respiratory and critical care medicine 150.4 (1994): 967-972. 
+10. Coultas, David B., et al. "The epidemiology of interstitial lung diseases." American journal of respiratory and critical care medicine 150.4 (1994): 967-972.
+11. Tarlo, Susan, Paul Cullinan, and Benoit Nemery, eds. Occupational and environmental lung diseases: Diseases from Work, Home, Outdoor and Other Exposures. John Wiley & Sons, 2011.
