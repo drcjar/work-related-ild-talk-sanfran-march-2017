@@ -111,6 +111,8 @@ problems, limitations of registry and insurance claim data)
 
 ## 
 
+## Histology slides still to come
+
 ## Clinical features 
 
 - Respiratory symptoms with an appropriate occupational or environmental exposure history 
@@ -118,7 +120,7 @@ problems, limitations of registry and insurance claim data)
 
 ##
 
-![A hierarchy of attribution in occupational lung diseases(11)[images/Attribution.jpg]{ width=90% }
+![A hierarchy of attribution in occupational lung diseases (11)(images/Attribution.jpg){ width=90% }
 
 # But I'm not covering it all
 
