@@ -91,7 +91,9 @@ D = solubility / root of the molecular weight of the gas
 
 ## work-related ILD
 
-## Epidemiology
+## ILD incidence 30/100,000 per year and Prevelance 70/100,000 (approximately)
+
+##
 
 - precise population prevalence and incididence of ILD hard to establish (classification 
 problems, limitations of registry and insurance claim data)
