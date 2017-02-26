@@ -120,6 +120,8 @@ problems, limitations of registry and insurance claim data)
 ## Clinical features 
 
 - Respiratory symptoms with an appropriate occupational or environmental exposure history 
+- Host-factor (e.g adaptive immune response, systemic) vs exposure factor dominant presentations (local inflammatory response)
+- Investigations
 - Attribution frequently non-trivial
 
 ##
@@ -128,7 +130,7 @@ problems, limitations of registry and insurance claim data)
 
 # But I'm not covering it all
 
-## I'll cover three chemicals that cause disease
+## I'll cover three chemicals that cause diseases where the hard work of attribution has already been done
 
 ##
 
