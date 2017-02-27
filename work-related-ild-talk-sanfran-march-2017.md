@@ -278,7 +278,8 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 1. Occupational and environmental exposures change over time giving risk to new disease outbreaks; the interstitium is vulnerable 
 2. Recent occupational and environmental interstitial lung disease outbreaks include Ardystil, Indium tin oxide, and South Korean lung
-3. Stay vigilant 
+3. The relationship between exposures and pathological patterns is frequently not 1:1
+4. Stay vigilant 
 
 # Questions?
 
