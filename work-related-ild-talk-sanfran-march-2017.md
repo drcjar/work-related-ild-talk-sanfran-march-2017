@@ -26,6 +26,10 @@
 
 ![HSE Pneumoconiosis figures](images/Pneumoconniosis.jpg) 
 
+##
+
+![Prevalence of progressive massive fibrosis in underground coal miners with 25 years of more exposure in three states of the USA](images/UndergroundCoalMiners.jpg)
+
 # What is work-related ILD? 
 
 ## Definitions
@@ -78,10 +82,10 @@ D = solubility / root of the molecular weight of the gas
 
 ##
 
-- 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm)
-- 25x thinner than that. 300 million alveoli 
-- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller) 
-- Surface area of a tennis court
+- 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm).
+- 25x thinner than that. 300 million alveolii. 
+- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller). 
+- Surface area of a tennis court.
 
 ## 
 
@@ -96,9 +100,9 @@ D = solubility / root of the molecular weight of the gas
 ##
 
 - precise population prevalence and incidence of ILD hard to establish (classification 
-problems, limitations of registry and insurance claim data)
-- best historic estimate of incidence 30/100,000 per year, prevalence 70/100,000 (10)
-- IIP most common, IPF 1/3rd of cases, more common in men
+problems, limitations of registry and insurance claim data).
+- best historic estimate of incidence 30/100,000 per year, prevalence 70/100,000. (10)
+- IIP most common, IPF 1/3rd of cases, more common in men.
 
 ## 15-20\% of ILD due to occupational and environmental exposures
 
@@ -130,9 +134,9 @@ problems, limitations of registry and insurance claim data)
 
 ![A hierarchy of attribution in occupational lung diseases (11)](images/Attribution.jpg){ width=90% }
 
-# I can't cover it all
+# Recent outbreaks
 
-## I'll cover three chemicals that cause diseases where the hard work of attribution has already been done
+## I'll cover three diseases where the hard work of attribution has already been done
 
 ##
 
@@ -144,6 +148,21 @@ problems, limitations of registry and insurance claim data)
 
 ## 
 
+- April 1992, two young women who worked at a textile factory were treated for interstitial lung disease and severe pulmonary insufficiency in Valencia.
+- Prompted investigation of all textile factories (A-H) using same spraying technique in the area
+- 257 employees identified. 22 cases who met radiological and biopsy criteria for organising pneumonia. Six fatal cases.
+
+##
+
+- Factory A had the highest risk of being a case (RR=24.3; 95% Cl=5.7-104.4),
+followed by Factory B (RR=11, 95% CI=11.9- 62.9) and only two out of 22 cases
+had never worked in factories A or B. 
+- It was found that only in factories A and B had the presence of an airborne chemical by the trade name Acramin FWR that recently been substituted with another related compound Acramin
+FWN. 
+- Subsequently a similar outbreak occurred in Algeria.
+
+##
+
 ![Chest computed tomography image of Acramin (Ardystil) dye-associated organising pneumonia. Two patients with dyspnoea, reduced FEV1 and FVC. 2005. (1)](images/Ardystil1.jpeg){ width=65% }
 
 ##
@@ -153,22 +172,22 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-- April 1992, two young women who worked at a textile factory were treated for interstitial lung disease and severe pulmonary insufficiency in Valencia.
-- Prompted investigation of all textile factories using same spraying technique in the area
-- 257 employees identified. 22 cases who met radiological and biopsy criteria for organising pneumonia. Six fatal cases.
-- Epidemiological analysis revealed COP-like response due to chemical Acramin (trade name Ardystyl) 
-
-## 
-
 ![Chemical structure of Acramin FWN and Acramin FWR (12)](images/Acramin.png){ width=65% }
 
 ##
 
-- Acramin FWR recently introduced as a replacement for Acramin FWN at the two factories where majority of cases had worked. 
+- Acramin FWR (tradname Ardystil) recently introduced as a replacement for Acramin FWN at the two factories where majority of cases had worked. 
 - Animal studies confirmed respiratory toxicity.
 - Thought that highly negatively charged long-chain molecular structure of Acramin FWN contributes causes toxicity.
 
 # Indium tin oxide
+
+##
+
+- Indium tin oxide (ITO) is a sintered material used in making crystal displays for televisions and computers.
+- First case of ITO-associated interstitial pneumonitis was reported in 2003 in a 27-year-old Japanese worker (1)
+- Cases in Japan, US, and China confirm interstitial pneumonia similar to UIP, emphysema, PAP in indium workers. Two patients have died to date. (13) 
+- Like Ardystil outbreak notable that cases are young, have severe respiratory disease, and colleagues who are also unwell.
 
 ##
 
@@ -179,13 +198,6 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ![Range of histopatholgical features. A-C features of alveolar proteinois. D multinucleated giant cells, interstitial fibrosis, and brown particles composed predominantly of indium. (13)](images/Indium2.jpg){ width=65% }
 
 
-##
-
-- Indium tin oxide (ITO) is a sintered material used in making crystal displays for televisions and computers.
-- First case of ITO-associated interstitial pneumonitis was reported in 2003 in a 27-year-old Japanese worker (1)
-- Case series confirm interstitial pneumonia similar to UIP, emphysema, PAP in indium workers. Two patients have died to date. (13) 
-- Like ardystil outbreak notable that cases are young, have severe respiratory disease, and colleagues who are also unwell.
-
 # South Korean Lung
 
 ##
@@ -195,24 +207,27 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ##
 
 - Household clustering was observed in a series of patients admitted to ICU with severe respiratory distress in the spring of 2011. (15)
-- Case series consisted of 17 patients with median age 35. Six were pregnant at presentation. 
-- All presented with cough and dyspnoea. CT showed patchy consolidation followed by ground glass opacity and bronchiolocentric fibrotic changes. Ten patients 
+- Case series consisted of 17 patients (15 of which were female) with median age 35. Six were pregnant at presentation. 
+- All presented with cough and dyspnoea. CT showed patchy consolidation followed by ground glass opacity and bronchiolocentric fibrotic changes.  
 - Ten patients required mechanical ventilation. Four had lung transplants. Five of the six who did not have a lung transplant died.
 
 ##
 
+- An infective aetiology was initially suspected.
 - Epidemiological investigation (a hospital based case-control study) revealed that all patients had used humidifier disinfectant in their homes. 
 - It transpired that children had also been affected.
 
 ##
+
 - From 2006 epidemics of fatal lung injury in children were observed in Korea every spring (14).
-- Clinical characteristics of suspected cases between 2006-2011 were reviewed and association with humidifer disinfectant use made.
+- Clinical characteristics of suspected cases between 2006-2011 were reviewed and association with humidifier disinfectant use made.
 - 138 cases, average age 30.4 months. 80 children died.
 - No new cases following humidifier disinfectant ban in 2011. 
 
 ##
 
 - Mechanism by which polyhexamethylene guanidine phosphate, poly(oxyalkylene guanidine) hydrochloride, chloromethylisothiazolinone/methylisothiazolinone (toxic materials within humidifier disinfectant) not yet known. 
+- Avoidable? Writing about 'Humidifier fever' in Parkes third edition (1994) Pickering stated (use of humidifier biocides) "should be discouraged because we have no knowledge of the effects of long-term exposure to this group of chemicals"
 
 ##
 
@@ -229,32 +244,32 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 # MCQs
 
-## Which of the three chemical exposures causing ILD was not work-related?
+## Which of the following is true of the anatomy of the lung? 
 
 ##
 
- A) Ardytstil
- B) Indium tin oxide
- C) South Korean lung
- D) 1 + 3
+ A) The blood gas-barrier is approximately 1/25th of the thickness of a sheet of paper.
+ B) It's estimated that the average adult has 300 million alveoli.
+ C) The volume of an alveoli is 14 times that of a grain of sand.
+ D) All of the above.
 
-## What was recently implicated in the deaths of about 100 South Koreans (mostly women and children)?
-
-##
-
- A) Ardystil
- B) Indium tin oxide
- C) Humidifier disinfectant
- D) Carbon monoxide poisoning
-
-## Indium tin oxide (ITO) is used in the manufacture of?
+## Which of the following is true of South Korean lung?
 
 ##
 
- A) Crystal displays for computers and televisions
- B) Car windshields
- C) Jewellery 
- D) Car doors 
+ A) It predominantly affected women and children.
+ B) Most adult patients did not require mechanical ventilation. 
+ C) An infective aetiology was not initially suspected.
+ D) It has not resulted in legal proceedings. 
+
+## Which of the following is true of Indium Lung?
+
+##
+
+ A) Cases have reported in China, Japan, and Korea.
+ B) It is characterized by a single distinct pathological appearance.
+ C) Disease onset typically occurs after age 60. 
+ D) Several pathological appearances are associated with Indium Lung.
 
 
 # Summary 
