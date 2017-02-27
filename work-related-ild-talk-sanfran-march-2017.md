@@ -115,8 +115,6 @@ problems, limitations of registry and insurance claim data)
 
 ![Pathologic Patterns and Causes (4)](images/Pathology.jpeg){ width=90% }
 
-## 
-
 
 ## Clinical features 
 
@@ -231,7 +229,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 # MCQs
 
-## Which of the three chemical exposures causing ILD was work-related?
+## Which of the three chemical exposures causing ILD was not work-related?
 
 ##
 
