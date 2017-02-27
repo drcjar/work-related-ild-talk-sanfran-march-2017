@@ -195,7 +195,16 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ![''A former South Korean executive of UK-based Reckitt Benckiser has received a seven-year prison sentence over a humidifier disinfectant linked to the death of around 100 people''. BBC News website (accessed Jan 17 2017)](images/Disinfectant.jpg){ width=65% }
 
+##
 
+- From 2006 epidemics of fatal lung injury in children were observed in Korea every spring (14).
+- Clinical characteristics of suspected cases between 2006-2011 were reviewed and association with humidifer disinfectant use made.
+- 138 cases, average age 30.4 months. 80 children died.
+- No new cases following humidifier disinfectant ban in 2011. 
+
+##
+
+![Representative CT findings for cases. A: 3/52 from onset, patchy consoldiation. B: 1/12, diffuse centrilobular ground-glass attenuation. C: 1 year, diffuse centrilobular fibrosis. D: 5 year old girl, severe disease, pneumomediastinum, pneumothorax, subcutaenous emphysema. (14)](images/Disinfectant1.jpg){ width=65% }
 
 # MCQs
 
@@ -248,4 +257,4 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 11. Tarlo, Susan, Paul Cullinan, and Benoit Nemery, eds. Occupational and environmental lung diseases: Diseases from Work, Home, Outdoor and Other Exposures. John Wiley & Sons, 2011.
 12. Hoet, P. H., et al. "In vitro cytotoxicity of textile paint components linked to the" Ardystil syndrome"." Toxicological Sciences 52.2 (1999): 209-216.
 13. Cummings, Kristin J., et al. "Indium lung disease." CHEST Journal 141.6 (2012): 1512-1521.
-
+14. Kim, Kyung Won, et al. "Humidifier disinfectant–associated children’s interstitial lung disease." American journal of respiratory and critical care medicine 189.1 (2014): 48-56.
