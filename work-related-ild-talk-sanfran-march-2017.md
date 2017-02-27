@@ -147,11 +147,27 @@ problems, limitations of registry and insurance claim data)
 
 ## 
 
-![Ardystil syndrome (1)](images/Ardystil1.jpeg){ width=65% }
+![Chest computed tomography image of Acramin (Ardystil) dye-associated organising pneumonia. Two patients with dyspnoea, reduced FEV1 and FVC. 2005. (1)](images/Ardystil1.jpeg){ width=65% }
 
 ##
 
-![Ardystil syndrome (1)](images/Ardystil2.jpeg){ width=65% }
+![Cryptogenic organising pneumonia pattern in a lung biopsy of an Acramin (Ardystil) dye-exposed
+worker. (1)](images/Ardystil2.jpeg){ width=65% }
+
+##
+
+- April 1992, two young women who worked at a textile factory were treated for interstital lung disease and severe pulmonary insufficiency in Valencia
+- Prompted investigation of all textile factories using same spraying technique in the area
+- 257 employees identified. 22 cases who met radiological and biopsy criteria for orangising pneumonia. Six fatal cases.
+- Epidemiological analysis revealed COP-like response due to chemical Acramin (trade name Ardystyl) 
+
+## 
+
+![Chemical structure of Acramin FWN and Acramin FWR](images/Acramin.png){ width=65% }
+##
+
+- Acramin FWR recently introduced as a replacement for Acramin FWN at the two factories where majority of cases had worked. 
+- Animal studies confirm respiratory toxicity. 
 
 # Indium tin oxide
 
