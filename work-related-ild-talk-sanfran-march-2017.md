@@ -164,10 +164,11 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ## 
 
 ![Chemical structure of Acramin FWN and Acramin FWR](images/Acramin.png){ width=65% }
+
 ##
 
 - Acramin FWR recently introduced as a replacement for Acramin FWN at the two factories where majority of cases had worked. 
-- Animal studies confirm respiratory toxicity. 
+- Animal studies confirmed respiratory toxicity. 
 
 # Indium tin oxide
 
