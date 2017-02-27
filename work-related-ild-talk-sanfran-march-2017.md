@@ -43,8 +43,8 @@
 ##
 
 - ILD or DPLD
-- hetrogeneous group of disorders characterised by inflammation and fibrosis of the interstitum
-- interstitum refers to tissue between the pulmonary alveoli and the bloodstream
+- heterogeneous group of disorders characterised by inflammation and fibrosis of the interstitium
+- interstitium refers to tissue between the pulmonary alveoli and the bloodstream
 - in practice disease can also involve airway
 
 ## 
@@ -60,7 +60,7 @@
 
 ## 
 
-- Diffusion of gases across blood-gas barrier is passive and govenerned by Fick's Law.
+- Diffusion of gases across blood-gas barrier is passive and governed by Fick's Law.
 
 ##
 
@@ -79,7 +79,7 @@ D = solubility / root of the molecular weight of the gas
 ##
 
 - 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm)
-- 25x thinner than that. 300 million alveloli 
+- 25x thinner than that. 300 million alveoli 
 - Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller) 
 - Surface area of a tennis court
 
@@ -87,17 +87,17 @@ D = solubility / root of the molecular weight of the gas
 
 > TV 500ml, dead space 150ml, RR 15/min, 350ml*15 = approx 5L/min -> 7200L/day 
 
-## ample opportunity for sufficiently small particles to meet the interstitum 
+## ample opportunity for sufficiently small particles to meet the interstitium 
 
 ## work-related ILD
 
-## ILD incidence 30/100,000 per year and Prevelance 70/100,000 (approximately)
+## ILD incidence 30/100,000 per year and Prevalence 70/100,000 (approximately)
 
 ##
 
-- precise population prevalence and incididence of ILD hard to establish (classification 
+- precise population prevalence and incidence of ILD hard to establish (classification 
 problems, limitations of registry and insurance claim data)
-- best historic estimate of incidence 30/100,000 per year, prevelance 70/100,000 (10)
+- best historic estimate of incidence 30/100,000 per year, prevalence 70/100,000 (10)
 - IIP most common, IPF 1/3rd of cases, more common in men
 
 ## 15-20\% of ILD due to occupational and environmental exposures
@@ -156,9 +156,9 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-- April 1992, two young women who worked at a textile factory were treated for interstital lung disease and severe pulmonary insufficiency in Valencia
+- April 1992, two young women who worked at a textile factory were treated for interstitial lung disease and severe pulmonary insufficiency in Valencia.
 - Prompted investigation of all textile factories using same spraying technique in the area
-- 257 employees identified. 22 cases who met radiological and biopsy criteria for orangising pneumonia. Six fatal cases.
+- 257 employees identified. 22 cases who met radiological and biopsy criteria for organising pneumonia. Six fatal cases.
 - Epidemiological analysis revealed COP-like response due to chemical Acramin (trade name Ardystyl) 
 
 ## 
@@ -186,7 +186,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 - Indium tin oxide (ITO) is a sintered material used in making crystal displays for televisions and computers.
 - First case of ITO-associated interstitial pneumonitis was reported in 2003 in a 27-year-old Japanese worker (1)
-- Case series confirm interstital pneumonia similar to UIP, emphyema, PAP in indium workers. (13) 
+- Case series confirm interstitial pneumonia similar to UIP, emphysema, PAP in indium workers. Two patients have died to date. (13) 
 - Like ardystil outbreak notable that cases are young, have severe respiratory disease, and colleagues who are also unwell.
 
 # South Korean Lung
@@ -197,6 +197,17 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
+- Household clustering was observed in a series of patients admitted to ICU with severe respiratory distress in the spring of 2011. (15)
+- Case series consisted of 17 patients with median age 35. Six were pregnant at presentation. 
+- All presented with cough and dyspnoea. CT showed patchy consolidation followed by ground glass opacity and bronchiolocentric fibrotic changes. Ten patients 
+- Ten patients required mechanical ventilation. Four had lung transplants. Five of the six who did not have a lung transplant died.
+
+##
+
+- Epidemiological investigation (a hospital based case-control study) revealed that all patients had used humidifier disinfectant in their homes. 
+- It transpired that children had also been affected.
+
+##
 - From 2006 epidemics of fatal lung injury in children were observed in Korea every spring (14).
 - Clinical characteristics of suspected cases between 2006-2011 were reviewed and association with humidifer disinfectant use made.
 - 138 cases, average age 30.4 months. 80 children died.
@@ -204,12 +215,16 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-![Representative CT findings for cases. A: 3/52 from onset, patchy consoldiation. B: 1/12, diffuse centrilobular ground-glass attenuation. C: 1 year, diffuse centrilobular fibrosis. D: 5 year old girl, severe disease, pneumomediastinum, pneumothorax, subcutaenous emphysema. (14)](images/Disinfectant1.jpg){ width=65% }
+- Mechanism by which polyhexamethylene guanidine phosphate, poly(oxyalkylene guanidine) hydrochloride, chloromethylisothiazolinone/methylisothiazolinone (toxic materials within humidifier disinfectant) not yet known. 
+
+##
+
+![Representative CT findings for cases. A: 3/52 from onset, patchy consolidation. B: 1/12, diffuse centrilobular ground-glass attenuation. C: 1 year, diffuse centrilobular fibrosis. D: 5 year old girl, severe disease, pneumomediastinum, pneumothorax, subcutaneous emphysema. (14)](images/Disinfectant1.jpg){ width=65% }
 
 ##
 
 
-![Representative pathological findings. A: centrilobular interstitial thickening and fibrosis. B: Bronchiolocentroc desctruction. C: Inflammatory infiltration and fibroblastic proliferation within alveolar septa and bronchioles. D: Loss of airspaces because of extensive interstitial thickening and fibrosis. (14)](images/Disinfectant2.jpg){ width=65% }
+![Representative pathological findings. A: centrilobular interstitial thickening and fibrosis. B: Bronchiolocentroc destruction. C: Inflammatory infiltration and fibroblastic proliferation within alveolar septa and bronchioles. D: Loss of airspaces because of extensive interstitial thickening and fibrosis. (14)](images/Disinfectant2.jpg){ width=65% }
 
 
 ##
@@ -267,3 +282,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 12. Hoet, P. H., et al. "In vitro cytotoxicity of textile paint components linked to the" Ardystil syndrome"." Toxicological Sciences 52.2 (1999): 209-216.
 13. Cummings, Kristin J., et al. "Indium lung disease." CHEST Journal 141.6 (2012): 1512-1521.
 14. Kim, Kyung Won, et al. "Humidifier disinfectant–associated children’s interstitial lung disease." American journal of respiratory and critical care medicine 189.1 (2014): 48-56.
+
+##
+
+15. Hong, Sang-Bum, et al. "A cluster of lung injury associated with home humidifier use: clinical, radiological and pathological description of a new syndrome." Thorax (2014): thoraxjnl-2013.
