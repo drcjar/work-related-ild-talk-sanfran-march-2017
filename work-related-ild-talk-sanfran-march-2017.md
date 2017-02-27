@@ -163,7 +163,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ## 
 
-![Chemical structure of Acramin FWN and Acramin FWR](images/Acramin.png){ width=65% }
+![Chemical structure of Acramin FWN and Acramin FWR (12)](images/Acramin.png){ width=65% }
 
 ##
 
@@ -173,21 +173,40 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 # Indium tin oxide
 
-## {data-background="images/Ardystil2.jpg"}
+##
+
+![CT showing progression of disease over three years in a 28 year-old Indium worker. Ground glass opacities and interlobular thickening. (13)](images/Indium1.jpg){ width=65% }
+
+##
+
+![Range of histopatholgical features. A-C features of alveolar proteinois. D multinucleated giant cells, interstitial fibrosis, and brown particles composed predominantly of indium. (13)](images/Indium2.jpg){ width=65% }
+
+
+##
+
+- Indium tin oxide (ITO) is a sintered material used in making crystal displays for televisions and computers.
+- First case of ITO-associated interstitial pneumonitis was reported in 2003 in a 27-year-old Japanese worker (1)
+- Case series confirm interstital pneumonia similar to UIP, emphyema, PAP in indium workers. (13) 
+- Like ardystil outbreak notable that cases are young, have severe respiratory disease, and colleagues who are also unwell.
 
 # South Korean Lung
 
-## {data-background="images/colophon4.jpg"}
+##
+
+![``A former South Korean executive of UK-based Reckitt Benckiser has received a seven-year prison sentence over a humidifier disinfectant linked to the death of around 100 people''. BBC News website accessed Jan 17 2017.](images/Disinfectant.jpg){ width=65% }
+
+
 
 # MCQs
 
-## Which of the three chemical exposures causing ILD was not work-related?
+## Which of the three chemical exposures causing ILD was work-related?
 
 ##
 
  A) Ardytstil
  B) Indium tin oxide
  C) South Korean lung
+ D) 1 + 3
 
 ##
 
@@ -222,6 +241,11 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
 8. West, John B. "Role of the fragility of the pulmonary blood-gas barrier in the evolution of the pulmonary circulation." American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 304.3 (2013): R171-R176.
 9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
+
+##
+
 10. Coultas, David B., et al. "The epidemiology of interstitial lung diseases." American journal of respiratory and critical care medicine 150.4 (1994): 967-972.
 11. Tarlo, Susan, Paul Cullinan, and Benoit Nemery, eds. Occupational and environmental lung diseases: Diseases from Work, Home, Outdoor and Other Exposures. John Wiley & Sons, 2011.
 12. Hoet, P. H., et al. "In vitro cytotoxicity of textile paint components linked to the" Ardystil syndrome"." Toxicological Sciences 52.2 (1999): 209-216.
+13. Cummings, Kristin J., et al. "Indium lung disease." CHEST Journal 141.6 (2012): 1512-1521.
+
