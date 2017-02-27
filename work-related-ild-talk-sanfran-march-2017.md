@@ -168,7 +168,8 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ##
 
 - Acramin FWR recently introduced as a replacement for Acramin FWN at the two factories where majority of cases had worked. 
-- Animal studies confirmed respiratory toxicity. 
+- Animal studies confirmed respiratory toxicity.
+- Thought that highly negatively charged long-chain molecular structure of Acramin FWN contributes causes toxicity.
 
 # Indium tin oxide
 
@@ -223,3 +224,4 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
 10. Coultas, David B., et al. "The epidemiology of interstitial lung diseases." American journal of respiratory and critical care medicine 150.4 (1994): 967-972.
 11. Tarlo, Susan, Paul Cullinan, and Benoit Nemery, eds. Occupational and environmental lung diseases: Diseases from Work, Home, Outdoor and Other Exposures. John Wiley & Sons, 2011.
+12. Hoet, P. H., et al. "In vitro cytotoxicity of textile paint components linked to the" Ardystil syndrome"." Toxicological Sciences 52.2 (1999): 209-216.
