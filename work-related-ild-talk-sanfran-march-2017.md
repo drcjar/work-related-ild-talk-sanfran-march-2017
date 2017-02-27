@@ -28,7 +28,7 @@
 
 ##
 
-![Prevalence of progressive massive fibrosis in underground coal miners with 25 years of more exposure in three states of the USA](images/UndergroundCoalMiners.jpg)
+![Prevalence of progressive massive fibrosis in underground coal miners with 25 years of more exposure in three states of the USA (1)](images/UndergroundCoalMiners.jpg)
 
 # What is work-related ILD? 
 
@@ -68,7 +68,7 @@
 
 ##
 
-![Weibel model](images/Weibelmodel.jpg){ width=65% }
+![Weibel model](images/Weibelmodel.jpg){ width=50% }
 
 ##
 
@@ -276,8 +276,8 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-1. Occupational and environmental exposures change over time giving risk to new disease outbreaks 
-2. Interstitial lung disease examples include Ardystil, Indium tin oxide, and South Korean lung
+1. Occupational and environmental exposures change over time giving risk to new disease outbreaks; the interstitium is vulnerable 
+2. Recent occupational and environmental interstitial lung disease outbreaks include Ardystil, Indium tin oxide, and South Korean lung
 3. Stay vigilant 
 
 # Questions?
