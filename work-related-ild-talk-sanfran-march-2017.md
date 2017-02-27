@@ -193,7 +193,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-![``A former South Korean executive of UK-based Reckitt Benckiser has received a seven-year prison sentence over a humidifier disinfectant linked to the death of around 100 people''. BBC News website accessed Jan 17 2017.](images/Disinfectant.jpg){ width=65% }
+![''A former South Korean executive of UK-based Reckitt Benckiser has received a seven-year prison sentence over a humidifier disinfectant linked to the death of around 100 people''. BBC News website (accessed Jan 17 2017)](images/Disinfectant.jpg){ width=65% }
 
 
 
