@@ -303,16 +303,16 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 6. Travis, William D., et al. "An official American Thoracic Society/European Respiratory Society statement: update of the international multidisciplinary classification of the idiopathic interstitial pneumonias." American journal of respiratory and critical care medicine 188.6 (2013): 733-748.
 7. King TE. Approach to the adult with interstitial lung disease: Clinical evaluation. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2015.
 8. West, John B. "Role of the fragility of the pulmonary blood-gas barrier in the evolution of the pulmonary circulation." American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 304.3 (2013): R171-R176.
-9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
 
 ##
 
+9. McNulty, William, and Omar S. Usmani. "Techniques of assessing small airways dysfunction." European clinical respiratory journal 1 (2013).
 10. Coultas, David B., et al. "The epidemiology of interstitial lung diseases." American journal of respiratory and critical care medicine 150.4 (1994): 967-972.
 11. Tarlo, Susan, Paul Cullinan, and Benoit Nemery, eds. Occupational and environmental lung diseases: Diseases from Work, Home, Outdoor and Other Exposures. John Wiley & Sons, 2011.
 12. Hoet, P. H., et al. "In vitro cytotoxicity of textile paint components linked to the" Ardystil syndrome"." Toxicological Sciences 52.2 (1999): 209-216.
-13. Cummings, Kristin J., et al. "Indium lung disease." CHEST Journal 141.6 (2012): 1512-1521.
-14. Kim, Kyung Won, et al. "Humidifier disinfectant–associated children’s interstitial lung disease." American journal of respiratory and critical care medicine 189.1 (2014): 48-56.
 
 ##
 
+13. Cummings, Kristin J., et al. "Indium lung disease." CHEST Journal 141.6 (2012): 1512-1521.
+14. Kim, Kyung Won, et al. "Humidifier disinfectant–associated children’s interstitial lung disease." American journal of respiratory and critical care medicine 189.1 (2014): 48-56.
 15. Hong, Sang-Bum, et al. "A cluster of lung injury associated with home humidifier use: clinical, radiological and pathological description of a new syndrome." Thorax (2014): thoraxjnl-2013.
