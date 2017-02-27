@@ -261,7 +261,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-1. Occupational and environmental exposures change of time giving risk to new diseases 
+1. Occupational and environmental exposures change over time giving risk to new disease outbreaks 
 2. Interstitial lung disease examples include Ardystil, Indium tin oxide, and South Korean lung
 3. Stay vigilant 
 
