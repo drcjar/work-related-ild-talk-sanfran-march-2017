@@ -209,7 +209,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ##
 
 
-![Representative pathological findings. A: centrilobular interstitial thickening and fibrosis. B: Bronchiolocentroc desctruction. C: Inflammatory infiltration and fibroblastic proliferation within alveolar septa and bronchioles. D: Loss of airspaces because of extensive interstitial thickening and fibrosis.](images/Disinfectant2.jpg)
+![Representative pathological findings. A: centrilobular interstitial thickening and fibrosis. B: Bronchiolocentroc desctruction. C: Inflammatory infiltration and fibroblastic proliferation within alveolar septa and bronchioles. D: Loss of airspaces because of extensive interstitial thickening and fibrosis. (14)](images/Disinfectant2.jpg){ width=65% }
 
 
 ##
