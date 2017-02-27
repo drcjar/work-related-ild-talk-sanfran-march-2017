@@ -241,6 +241,21 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
  C) South Korean lung
  D) 1 + 3
 
+## What was recently implicated in the deaths of about 100 South Koreans (mostly women and children)?
+
+ A) Ardystil
+ B) Indium tin oxide
+ C) Humidifier disinfectant
+ D) Carbon monoxide poisoning
+
+## Indium tin oxide (ITO) is used in the manufacture of?
+
+ A) Crystal displays for computers and televisions
+ B) Car windshields
+ C) Jewellery 
+ D) Car doors 
+
+ 
 ##
 
 # Summary 
