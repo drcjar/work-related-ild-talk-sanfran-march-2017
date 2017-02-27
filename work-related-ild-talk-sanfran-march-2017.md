@@ -231,12 +231,12 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-![Representative CT findings for cases. A: 3/52 from onset, patchy consolidation. B: 1/12, diffuse centrilobular ground-glass attenuation. C: 1 year, diffuse centrilobular fibrosis. D: 5 year old girl, severe disease, pneumomediastinum, pneumothorax, subcutaneous emphysema. (14)](images/Disinfectant1.jpg){ width=65% }
+![3/52 from onset, patchy consolidation. B: 1/12, diffuse centrilobular ground-glass attenuation. C: 1 year, diffuse centrilobular fibrosis. D: 5 year old girl, severe disease, pneumomediastinum, pneumothorax, subcutaneous emphysema. (14)](images/Disinfectant1.jpg){ width=65% }
 
 ##
 
 
-![Representative pathological findings. A: centrilobular interstitial thickening and fibrosis. B: Bronchiolocentroc destruction. C: Inflammatory infiltration and fibroblastic proliferation within alveolar septa and bronchioles. D: Loss of airspaces because of extensive interstitial thickening and fibrosis. (14)](images/Disinfectant2.jpg){ width=65% }
+![A: centrilobular interstitial thickening and fibrosis. B: Bronchiolocentroc destruction. C: Inflammatory infiltration and fibroblastic proliferation within alveolar septa and bronchioles. D: Loss of airspaces because of interstitial thickening and fibrosis. (14)](images/Disinfectant2.jpg){ width=65% }
 
 
 ##
