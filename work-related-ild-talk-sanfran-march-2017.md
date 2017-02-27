@@ -117,7 +117,6 @@ problems, limitations of registry and insurance claim data)
 
 ## 
 
-## don't worry we'll look at histology slides shortly
 
 ## Clinical features 
 
