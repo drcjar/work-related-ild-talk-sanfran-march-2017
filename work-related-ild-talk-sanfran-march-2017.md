@@ -130,7 +130,7 @@ problems, limitations of registry and insurance claim data).
 
 ## 
 
-![Causes of hypersensitivity pneumonitis](images/hpcauses.jpeg){ width=65% }
+![Causes of hypersensitivity pneumonitis (19)](images/hpcauses.jpeg){ width=90% }
 
 ## relationship between aetiolgic agent and pathological patten often not 1:1
 
@@ -341,3 +341,4 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ##
 
 18. West, John B. "Thoughts on the pulmonary blood-gas barrier." American Journal of Physiology-Lung Cellular and Molecular Physiology 285.3 (2003): L501-L513.
+19. Feary, Johanna R., and Joanna Szram. "Occupational Hypersensitivity Pneumonitis: What Is the Evidence, When to Think of It, and What to Do." Clinical Pulmonary Medicine 23.1 (2016): 23-29.
