@@ -128,6 +128,8 @@ problems, limitations of registry and insurance claim data).
 - common: include organic antigen, isocyanates, silica, cadium, diacetyl, asbestos
 - less common: cobalt, rare earths, plutonium 
 
+## {data-background="images/hpcauses.jpeg"}
+
 ## relationship between aetiolgic agent and pathological patten often not 1:1
 
 ##
