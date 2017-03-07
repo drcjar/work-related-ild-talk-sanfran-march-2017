@@ -84,8 +84,8 @@ D = solubility / root of the molecular weight of the gas
 
 - 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm). (17)
 - 25x thinner than that. 300 million alveolii. 
-- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller).(16) 
-- Surface area of a tennis court.
+- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller).(16) Surface area of a tennis court.
+- basic tripartate layout highly conserved throughout evolutionary history (alveolar epithelium, ECM, capillary endothelium, seen American lungfish arising some 400 million years ago) (18)
 
 ## 
 
@@ -330,4 +330,8 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 14. Kim, Kyung Won, et al. "Humidifier disinfectant–associated children’s interstitial lung disease." American journal of respiratory and critical care medicine 189.1 (2014): 48-56.
 15. Hong, Sang-Bum, et al. "A cluster of lung injury associated with home humidifier use: clinical, radiological and pathological description of a new syndrome." Thorax (2014): thoraxjnl-2013.
 16. http://ccnmtl.columbia.edu/projects/mmt/frontiers/web/chapter_2/8918.html
-17. West, J. B., and O. Mathieu-Costello. "Structure, strength, failure, and remodeling of the pulmonary blood-gas barrier." Annual review of physiology 61.1 (1999): 543-572.
+17. West, J. B., and O. Mathieu-Costello. "Structure, strength, failure, and remodeling of the pulmonary blood-gas barrier." Annual review of physiology 61.1 (1999): 543-572.i
+
+##
+
+18. West, John B. "Thoughts on the pulmonary blood-gas barrier." American Journal of Physiology-Lung Cellular and Molecular Physiology 285.3 (2003): L501-L513.
