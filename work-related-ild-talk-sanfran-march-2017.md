@@ -155,7 +155,7 @@ problems, limitations of registry and insurance claim data).
 
 # Recent outbreaks
 
-## I'll cover three diseases where the hard work of attribution has already been done
+## Three recent outbreaks 
 
 ##
 
