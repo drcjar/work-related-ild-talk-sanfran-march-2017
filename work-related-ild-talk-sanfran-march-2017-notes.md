@@ -15,3 +15,11 @@ structure
 
 ?see if anything new from chapter - update search
 
+add more on what indium is
+
+what meant by household clustering in south korean lung?
+
+?story about infective aetiology?
+
+(add that ardystil and indium case control studies - if they were)
+

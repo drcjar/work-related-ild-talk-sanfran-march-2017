@@ -176,7 +176,7 @@ problems, limitations of registry and insurance claim data).
 - Factory A had the highest risk of being a case (RR=24.3; 95% Cl=5.7-104.4),
 followed by Factory B (RR=11, 95% CI=11.9- 62.9) and only two out of 22 cases
 had never worked in factories A or B. 
-- It was found that only in factories A and B had the presence of an airborne chemical by the trade name Acramin FWR that recently been substituted with another related compound Acramin
+- It was found that only in factories A and B had the presence of an airborne chemical by the trade name Acramin FWR that had recently been substituted with another related compound Acramin
 FWN. 
 - Subsequently a similar outbreak occurred in Algeria.
 
@@ -246,7 +246,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ##
 
 - Mechanism by which polyhexamethylene guanidine phosphate, poly(oxyalkylene guanidine) hydrochloride, chloromethylisothiazolinone/methylisothiazolinone (toxic materials within humidifier disinfectant) not yet known. 
-- Avoidable? Writing about 'Humidifier fever' in Parkes third edition (1994) Pickering stated (use of humidifier biocides) "should be discouraged because we have no knowledge of the effects of long-term exposure to this group of chemicals"
+- Avoidable? Writing about 'Humidifier fever' in Parke's third edition (1994) Pickering stated (use of humidifier biocides) "should be discouraged because we have no knowledge of the effects of long-term exposure to this group of chemicals"
 
 ##
 
