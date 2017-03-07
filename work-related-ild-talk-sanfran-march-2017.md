@@ -99,9 +99,7 @@ D = solubility / root of the molecular weight of the gas
 - particles 1-2μm the smaller conducting airways
 - particles 0.1-1μm deposit in the alveolar-interstitial region
 
-##
-
-## {data-background='images/particles.png'}
+## {data-background="images/particles.png"}
 
 ##
 
