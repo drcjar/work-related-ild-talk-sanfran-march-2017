@@ -104,7 +104,7 @@ D = solubility / root of the molecular weight of the gas
 ##
 
 - the 0.1-1μm range includes paint pigments, metal dusts, and humidifier particles   
-- response may be irritant/fibrotic/allergic/infectious/cardinogenic
+- responses to exposure can be divided e.g irritant/fibrotic/allergic/infectious/carcinogenic
 
 ## work-related ILD
 
