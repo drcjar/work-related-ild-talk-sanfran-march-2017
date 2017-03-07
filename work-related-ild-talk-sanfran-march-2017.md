@@ -101,12 +101,7 @@ D = solubility / root of the molecular weight of the gas
 
 ##
 
-![Characteristics of particles and particle dispersoids](images/particles.png){ width=65% }
-
-
-##
-
-{data-background='images/particles.png'}
+## {data-background='images/particles.png'}
 
 ##
 
