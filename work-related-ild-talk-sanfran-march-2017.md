@@ -82,9 +82,9 @@ D = solubility / root of the molecular weight of the gas
 
 ##
 
-- 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm).
+- 2μm across (for ref sheet of paper is 50μm, 1/20th of a mm or 0.05mm). (17)
 - 25x thinner than that. 300 million alveolii. 
-- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller). 
+- Each alveoli is 0.0042mm^3 (a grain of sand is 0.06mm^3, so an alveoli is about 14 times smaller).(16) 
 - Surface area of a tennis court.
 
 ## 
@@ -92,6 +92,22 @@ D = solubility / root of the molecular weight of the gas
 > TV 500ml, dead space 150ml, RR 15/min, 350ml*15 = approx 5L/min -> 7200L/day 
 
 ## ample opportunity for sufficiently small particles to meet the interstitium 
+
+## 
+
+- particles > 2μm in diameter deposit in the larger airways
+- particles 1-2μm the smaller conducting airways
+- particles 0.1-1μm deposit in the alveolar-interstitial region
+
+##
+
+![Characteristics of particles and particle dispersoids](images/particles.png){ width=65% }
+
+
+##
+
+- the 0.1-1μm range includes paint pigments, metal dusts, and humidifier particles   
+- response may be irritant/fibrotic/allergic/infectious/cardinogenic
 
 ## work-related ILD
 
@@ -316,3 +332,5 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 13. Cummings, Kristin J., et al. "Indium lung disease." CHEST Journal 141.6 (2012): 1512-1521.
 14. Kim, Kyung Won, et al. "Humidifier disinfectant–associated children’s interstitial lung disease." American journal of respiratory and critical care medicine 189.1 (2014): 48-56.
 15. Hong, Sang-Bum, et al. "A cluster of lung injury associated with home humidifier use: clinical, radiological and pathological description of a new syndrome." Thorax (2014): thoraxjnl-2013.
+16. http://ccnmtl.columbia.edu/projects/mmt/frontiers/web/chapter_2/8918.html
+17. West, J. B., and O. Mathieu-Costello. "Structure, strength, failure, and remodeling of the pulmonary blood-gas barrier." Annual review of physiology 61.1 (1999): 543-572.
