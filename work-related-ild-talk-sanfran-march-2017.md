@@ -106,6 +106,10 @@ D = solubility / root of the molecular weight of the gas
 
 ##
 
+{data-background='images/particles.png'}
+
+##
+
 - the 0.1-1μm range includes paint pigments, metal dusts, and humidifier particles   
 - response may be irritant/fibrotic/allergic/infectious/cardinogenic
 
