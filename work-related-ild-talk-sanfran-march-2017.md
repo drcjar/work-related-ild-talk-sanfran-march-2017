@@ -178,7 +178,7 @@ followed by Factory B (RR=11, 95% CI=11.9- 62.9) and only two out of 22 cases
 had never worked in factories A or B. 
 - It was found that only in factories A and B had the presence of an airborne chemical by the trade name Acramin FWR that had recently been substituted with another related compound Acramin
 FWN. 
-- Subsequently a similar outbreak occurred in Algeria.
+- Similar outbreak occurred later in the same year in Algeria. 5 cases among 12 textile workers air-spraying with "products from spain", 1 fatality.(20) 
 
 ##
 
@@ -225,15 +225,17 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 ##
 
-- Household clustering was observed in a series of patients admitted to ICU with severe respiratory distress in the spring of 2011. (15)
+- Household clustering (6 cases belonged to household clusters e.g had a partner or children also affected) was observed in a series of patients admitted to ICU with severe respiratory distress in the spring of 2011. (15)
 - Case series consisted of 17 patients (15 of which were female) with median age 35. Six were pregnant at presentation. 
 - All presented with cough and dyspnoea. CT showed patchy consolidation followed by ground glass opacity and bronchiolocentric fibrotic changes.  
 - Ten patients required mechanical ventilation. Four had lung transplants. Five of the six who did not have a lung transplant died.
 
 ##
 
-- An infective aetiology was initially suspected.
+- An infective aetiology was initially suspected (because recent viral epidemics)
 - Epidemiological investigation (a hospital based case-control study) revealed that all patients had used humidifier disinfectant in their homes. 
+- Cases defined as age 20-54, characteristic radiological appearance, no alternative diagnosis. Controls from O&G, pulmonary, and allergy outpatients.
+- OR for HD use = 47.3 (95% CI 6.05 - 369.7, P < 0.01)
 - It transpired that children had also been affected.
 
 ##
@@ -241,6 +243,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 - From 2006 epidemics of fatal lung injury in children were observed in Korea every spring (14).
 - Clinical characteristics of suspected cases between 2006-2011 were reviewed and association with humidifier disinfectant use made.
 - 138 cases, average age 30.4 months. 80 children died.
+- Case-control (controls lobar pneumonia, asthma, or healthy) study found OR for HD use = 2.73 (95% CI; 1.41–5.90, P = 0.00)
 - No new cases following humidifier disinfectant ban in 2011. 
 
 ##
@@ -342,3 +345,5 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 
 18. West, John B. "Thoughts on the pulmonary blood-gas barrier." American Journal of Physiology-Lung Cellular and Molecular Physiology 285.3 (2003): L501-L513.
 19. Feary, Johanna R., and Joanna Szram. "Occupational Hypersensitivity Pneumonitis: What Is the Evidence, When to Think of It, and What to Do." Clinical Pulmonary Medicine 23.1 (2016): 23-29.
+20. Ould Kadi F, Mohammed-Brahim B, Fyad A, Lellou S,Nemery B. Outbreak of interstitial lung disease in textile dye sprayers in Algeria. Lancet 1994, 343,962-3
+21. Lapple, C. E. "Characteristics of particles and particle dispersoids." Stanford Research Institute Journal 5 (1961): 94.

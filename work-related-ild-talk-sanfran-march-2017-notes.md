@@ -34,7 +34,7 @@ what meant by household clustering in south korean lung? 6 cases belonged to hou
 
 ?story about infective aetiology? initially viral infection suspected because of recent viral epidemics e.g avian flu, sars, and H1N1 - not supported by extensive micro workup
 
-was a case-control study
+was a hosp based case-control study, controls age and sex matched attendees to either obs and gynae dept, pulmonology, or allergy
 
 case definition 
 (1) bilateral, centrilobular or diffuse
@@ -55,6 +55,11 @@ Park JH, Gwack J, et al. Inhalation toxicity of humidifier disinfectants
 as a risk factor of children’s interstitial lung disease in Korea: a case-
 control study. PLoS ONE 2013;8:e64430.
 
+retrospective, 1:3 matched case-control study consisted of 16 cases of chILD that had developed between
+2010 and 2011. The three groups of parallel controls (patients with acute lobar pneumonia, asthma, and healthy children)
+were matched by age, gender, and index date. Indoor/outdoor environmental risk factors, including HD use, were
+investigated by asking the guardians to complete a questionnaire.
+
 case definition
 1) be 18 years of age or less;
 2) show rapidly progressive
@@ -66,7 +71,7 @@ air leak syndrome, such as pneumothorax,
 pneumomediastinum, or subcutaneous
 emphysema.
 
-OR = ?
+OR = OR; 2.73. 95% CI; 1.41–5.90, P = 0.00
 
 for korean lung in adults and children case series then case-control
 
