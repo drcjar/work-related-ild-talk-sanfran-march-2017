@@ -132,7 +132,7 @@ problems, limitations of registry and insurance claim data).
 
 ![Causes of hypersensitivity pneumonitis (19)](images/hpcauses.jpeg){ width=90% }
 
-## relationship between aetiolgic agent and pathological patten often not 1:1
+## relationship between aetiolgic agent and pathological pattern often not 1:1
 
 ##
 
