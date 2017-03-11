@@ -1,6 +1,7 @@
 % Work-related Interstitial Lung Disease: Beyond pneumoconiosis 
 % Dr Carl Reynolds 
 
+---
 # Disclosures
 
 ## I have nothing to disclose 
