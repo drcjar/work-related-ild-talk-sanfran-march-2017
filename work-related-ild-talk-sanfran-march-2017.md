@@ -1,15 +1,11 @@
 % Work-related Interstitial Lung Disease: Beyond pneumoconiosis 
 % Dr Carl Reynolds 
 
----
-#starts
+# Disclosures
 
-## Disclosures
+## I have nothing to disclose 
 
-I have nothing to disclose 
-
----
-## Supporting materials
+# Supporting materials
 
 ##
 - talk available online 
@@ -20,8 +16,7 @@ I have nothing to disclose
 
 > https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
----
-## Beyond pneumoconiosis?
+# Beyond pneumoconiosis?
 
 ##
 
@@ -35,7 +30,7 @@ I have nothing to disclose
 
 ![Prevalence of progressive massive fibrosis in underground coal miners with 25 years of more exposure in three states of the USA (1)](images/UndergroundCoalMiners.jpg)
 
-## What is work-related ILD? 
+# What is work-related ILD? 
 
 ## Definitions
 
@@ -158,7 +153,7 @@ problems, limitations of registry and insurance claim data).
 
 ![A hierarchy of attribution in occupational lung diseases (11)](images/Attribution.jpg){ width=90% }
 
-## Recent outbreaks
+# Recent outbreaks
 
 ## Three recent outbreaks 
 
@@ -168,7 +163,7 @@ problems, limitations of registry and insurance claim data).
 2. Indium tin oxide
 3. South Korean lung 
 
-## Ardystil
+# Ardystil
 
 ## 
 
@@ -204,7 +199,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 - Animal studies confirmed respiratory toxicity.
 - Thought that highly negatively charged long-chain molecular structure of Acramin FWN contributes causes toxicity.
 
-## Indium tin oxide
+# Indium tin oxide
 
 ##
 
@@ -222,7 +217,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ![Range of histopatholgical features. A-C features of alveolar proteinois. D multinucleated giant cells, interstitial fibrosis, and brown particles composed predominantly of indium. (13)](images/Indium2.jpg){ width=65% }
 
 
-## South Korean Lung
+# South Korean Lung
 
 ##
 
@@ -269,7 +264,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 ##
 
 
-## MCQs
+# MCQs
 
 ## Which of the following is true of the anatomy of the lung? 
 
@@ -299,7 +294,7 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
  D) Several pathological appearances are associated with Indium Lung.
 
 
-## Summary 
+# Summary 
 
 ##
 
@@ -308,14 +303,14 @@ worker. (1)](images/Ardystil2.jpeg){ width=65% }
 3. The relationship between exposures and pathological patterns is frequently not 1:1
 4. Stay vigilant 
 
-## Questions?
+# Questions?
 
 ## Questions and contact
 
 - carl.reynolds@imperial.ac.uk
 - www.carlreynolds.net
 
-## References
+# References
 
 ##
 
