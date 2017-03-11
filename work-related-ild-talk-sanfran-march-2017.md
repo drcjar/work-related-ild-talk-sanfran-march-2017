@@ -2,10 +2,10 @@
 % Dr Carl Reynolds 
 
 ---
+#starts
 ## Disclosures
 
----
-## I have nothing to disclose 
+I have nothing to disclose 
 
 ---
 ## Supporting materials
