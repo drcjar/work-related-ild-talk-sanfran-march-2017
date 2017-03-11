@@ -4,8 +4,10 @@
 ---
 # Disclosures
 
+---
 ## I have nothing to disclose 
 
+---
 # Supporting materials
 
 ##
@@ -17,6 +19,7 @@
 
 > https://github.com/drcjar/work-related-ild-talk-sanfran-march-2017
 
+---
 # Beyond pneumoconiosis?
 
 ##
